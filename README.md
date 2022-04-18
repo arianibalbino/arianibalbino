@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arianibalbino
-- 👀 I’m interested in Python 
+- 👀 I’m interested in Python, C# and React.js
 - 🌱 I’m currently learning vue.js
 - 📫 How to reach me arianibalbino@hotmail.com
 
