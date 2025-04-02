@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arianibalbino
 - 👀 I’m interested in Python, C# and C++
-- 🌱 I’m currently improve my c++ skills
+- 🌱 I’m currently improving my c++ skills
 - 📫 How to reach me arianibalbino@hotmail.com
 
 <!---
